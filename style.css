@@ -15,7 +15,9 @@
 img{
     align-content: center;
 }
-
+div{
+    text-align: center;
+}
 h1 {
     color: gold;
     background-color: darkred;
