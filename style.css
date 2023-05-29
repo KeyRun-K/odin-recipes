@@ -1,0 +1,23 @@
+* {
+    font-family: sans-serif;
+}
+
+.index {
+    background-color: bisque;
+}
+
+.lasagna,
+.italian,
+.marinated {
+    background-color: antiquewhite;
+}
+
+img{
+    align-content: center;
+}
+
+h1 {
+    color: gold;
+    background-color: darkred;
+    text-align: center;
+}
