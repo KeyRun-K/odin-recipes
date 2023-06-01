@@ -18,8 +18,19 @@ img{
 div{
     text-align: center;
 }
+div a{
+    display: block;
+    background-color: sandybrown ;
+    border: 1px solid black;
+    border-radius: 15px;
+    width: 250px;
+    padding: 3px;
+    margin: 10px auto;
+}
 h1 {
     color: gold;
+    border: 2px solid seagreen;
+    border-radius: 15px;
     background-color: darkred;
     text-align: center;
 }
